@@ -18,6 +18,8 @@ git remote remove origin
 # add in remote
 git remote add origin git@github.com:rtlab1417/xxxxxx.git
 
+# if we want to pull from remote to local
+git pull <remote>
 
 # if error
 ssh: connect to host github.com port 22: Connection timed out
